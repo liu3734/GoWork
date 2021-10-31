@@ -3,7 +3,7 @@ package main
 import (
 	"database/sql"
 	"fmt"
-	"github.com/gpmgo/gopm/modules/errors"
+	"github.com/pkg/errors"
 )
 
 func main() {
